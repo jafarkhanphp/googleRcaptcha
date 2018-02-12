@@ -18,6 +18,7 @@ You can clone the [github repo](https://github.com/jafarkhanphp/googleRcaptcha.g
 * 3/ Configure this component in your configuration file (main.php file). The parameters siteKey and secret are required.
 
 //Insert code in components array()
+
 'reCaptcha' => array(
 		        'name' => 'reCaptcha',
 		        'class' => 'application.extensions.yiiReCaptcha.ReCaptcha',
