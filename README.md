@@ -1,3 +1,7 @@
+reCAPTCHA is a CAPTCHA-like system designed to establish that a computer user is human (normally in order to protect websites from bots) and, at the same time, assist in the digitization of books
+
+Here I am describe how can add google captcha in yii1 MVC frame work.
+
 YiiReCaptcha 
 ============
 Based on reCaptcha API 2.0
