@@ -11,7 +11,7 @@ Based on reCaptcha API 2.0
 You can clone the [github repo](https://github.com/jafarkhanphp/googleRcaptcha.git) and get the full codebase to build the distributive something you want. 
 
 ## Installation
-* 1/ Download GitHub repo (jafarkhanphp/googleRcaptcha) and extract files into a destination folder(extensionsfolder or any folder in your structure)
+* 1/ Download GitHub repo (jafarkhanphp/googleRcaptcha) and extract files into a destination folder(extensions folder or any folder in your structure)
 
 * 2/ [Sign up for an reCAPTCHA API keys on Google reCaptcha](https://www.google.com/recaptcha/admin#createsite). and get the key/secret pair
 
